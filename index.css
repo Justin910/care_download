@@ -1,0 +1,9 @@
+*{margin: 0 auto;padding: 0 auto;}
+.xiaz{background: url(img/xiazai.jpg) no-repeat center top;height: 1080px;overflow: hidden; font-size: 24px; color: #fff;text-align: center;position: relative;
+}
+.xiaz p{width:154px;/*position: absolute; top: 215px; left: 50%; margin-left: -370px;*/margin:225px auto 0;}
+.xiaz p img{ display: block;width: 150px;height:150px;  border:2px solid #8ad9fa; border-radius: 10px;background: #fff;}
+.xiaz  a{ color: #56aeda;text-decoration: none;}
+.xiaz span{ display: block;width: 50px;height: 50px;/* position: absolute; top: 290px;left: 50%; margin-left: -320px;*/margin:-15px auto 0; position: relative;
+  padding-left: 80px; z-index: 3;}
+.xiaz span img{width: 50px;height: 50px;}
